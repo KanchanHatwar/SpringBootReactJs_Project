@@ -9,6 +9,7 @@ import lombok.Data;
 @Data
 @Entity
 public class Employee {
+	//this is employee java file
 	@Id
 	@GeneratedValue
 	private Integer empid;
